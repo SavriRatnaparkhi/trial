@@ -5,10 +5,10 @@ col1, col2, col3 = st.columns(3)
 with col2:
     st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/420px-F1.svg.png", width=200)
 
-data = pd.read_csv("C:/Users/Savri/Downloads/F1/f1_2010-2021/f1_2010-2021.csv")
-driver = pd.read_csv("C:/Users/Savri/Downloads/F1/f1_2010-2021/driver_standings_2010-2021.csv")
-team = pd.read_csv("C:/Users/Savri/Downloads/F1/f1_2010-2021/constructor_standings_2010-2021.csv")
-circuits = pd.read_csv("C:/Users/Savri/Downloads/circuits.csv")
+data = pd.read_csv("f1_2010-2021.csv")
+driver = pd.read_csv("driver_standings_2010-2021.csv")
+team = pd.read_csv("constructor_standings_2010-2021.csv")
+circuits = pd.read_csv("circuits.csv")
 
 tab1, tab2, tab3 = st.tabs(['Home', 'Team Wins-comparison', 'Driver Points-comparison'])
 with tab1:
