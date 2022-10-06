@@ -1,0 +1,131 @@
+index,team,points,year
+0,RBR Renault,498.0,2010
+1,McLaren Mercedes,454.0,2010
+2,Ferrari,396.0,2010
+3,Mercedes,214.0,2010
+4,Renault,163.0,2010
+5,Williams Cosworth,69.0,2010
+6,Force India Mercedes,68.0,2010
+7,Sauber Ferrari,44.0,2010
+8,STR Ferrari,13.0,2010
+9,Lotus Cosworth,0.0,2010
+10,HRT Cosworth,0.0,2010
+11,Virgin Cosworth,0.0,2010
+0,Red Bull Racing Renault,650.0,2011
+1,McLaren Mercedes,497.0,2011
+2,Ferrari,375.0,2011
+3,Mercedes,165.0,2011
+4,Renault,73.0,2011
+5,Force India Mercedes,69.0,2011
+6,Sauber Ferrari,44.0,2011
+7,STR Ferrari,41.0,2011
+8,Williams Cosworth,5.0,2011
+9,Lotus Renault,0.0,2011
+10,HRT Cosworth,0.0,2011
+11,Virgin Cosworth,0.0,2011
+0,Red Bull Racing Renault,460.0,2012
+1,Ferrari,400.0,2012
+2,McLaren Mercedes,378.0,2012
+3,Lotus Renault,303.0,2012
+4,Mercedes,142.0,2012
+5,Sauber Ferrari,126.0,2012
+6,Force India Mercedes,109.0,2012
+7,Williams Renault,76.0,2012
+8,STR Ferrari,26.0,2012
+9,Caterham Renault,0.0,2012
+10,Marussia Cosworth,0.0,2012
+11,HRT Cosworth,0.0,2012
+0,Red Bull Racing Renault,596.0,2013
+1,Mercedes,360.0,2013
+2,Ferrari,354.0,2013
+3,Lotus Renault,315.0,2013
+4,McLaren Mercedes,122.0,2013
+5,Force India Mercedes,77.0,2013
+6,Sauber Ferrari,57.0,2013
+7,STR Ferrari,33.0,2013
+8,Williams Renault,5.0,2013
+9,Marussia Cosworth,0.0,2013
+10,Caterham Renault,0.0,2013
+0,Mercedes,701.0,2014
+1,Red Bull Racing Renault,405.0,2014
+2,Williams Mercedes,320.0,2014
+3,Ferrari,216.0,2014
+4,McLaren Mercedes,181.0,2014
+5,Force India Mercedes,155.0,2014
+6,STR Renault,30.0,2014
+7,Lotus Renault,10.0,2014
+8,Marussia Ferrari,2.0,2014
+9,Sauber Ferrari,0.0,2014
+10,Caterham Renault,0.0,2014
+0,Mercedes,703.0,2015
+1,Ferrari,428.0,2015
+2,Williams Mercedes,257.0,2015
+3,Red Bull Racing Renault,187.0,2015
+4,Force India Mercedes,136.0,2015
+5,Lotus Mercedes,78.0,2015
+6,STR Renault,67.0,2015
+7,Sauber Ferrari,36.0,2015
+8,McLaren Honda,27.0,2015
+9,Marussia Ferrari,0.0,2015
+0,Mercedes,765.0,2016
+1,Red Bull Racing TAG Heuer,468.0,2016
+2,Ferrari,398.0,2016
+3,Force India Mercedes,173.0,2016
+4,Williams Mercedes,138.0,2016
+5,McLaren Honda,76.0,2016
+6,Toro Rosso Ferrari,63.0,2016
+7,Haas Ferrari,29.0,2016
+8,Renault,8.0,2016
+9,Sauber Ferrari,2.0,2016
+10,MRT Mercedes,1.0,2016
+0,Mercedes,668.0,2017
+1,Ferrari,522.0,2017
+2,Red Bull Racing TAG Heuer,368.0,2017
+3,Force India Mercedes,187.0,2017
+4,Williams Mercedes,83.0,2017
+5,Renault,57.0,2017
+6,Toro Rosso,53.0,2017
+7,Haas Ferrari,47.0,2017
+8,McLaren Honda,30.0,2017
+9,Sauber Ferrari,5.0,2017
+0,Mercedes,655.0,2018
+1,Ferrari,571.0,2018
+2,Red Bull Racing TAG Heuer,419.0,2018
+3,Renault,122.0,2018
+4,Haas Ferrari,93.0,2018
+5,McLaren Renault,62.0,2018
+6,Force India Mercedes,52.0,2018
+7,Sauber Ferrari,48.0,2018
+8,Scuderia Toro Rosso Honda,33.0,2018
+9,Williams Mercedes,7.0,2018
+10,Force India Sahara,0.0,2018
+0,Mercedes,739.0,2019
+1,Ferrari,504.0,2019
+2,Red Bull Racing Honda,417.0,2019
+3,McLaren Renault,145.0,2019
+4,Renault,91.0,2019
+5,Scuderia Toro Rosso Honda,85.0,2019
+6,Racing Point BWT Mercedes,73.0,2019
+7,Alfa Romeo Racing Ferrari,57.0,2019
+8,Haas Ferrari,28.0,2019
+9,Williams Mercedes,1.0,2019
+0,Mercedes,573.0,2020
+1,Red Bull Racing Honda,319.0,2020
+2,McLaren Renault,202.0,2020
+3,Racing Point BWT Mercedes,195.0,2020
+4,Renault,181.0,2020
+5,Ferrari,131.0,2020
+6,AlphaTauri Honda,107.0,2020
+7,Alfa Romeo Racing Ferrari,8.0,2020
+8,Haas Ferrari,3.0,2020
+9,Williams Mercedes,0.0,2020
+0,Mercedes,613.5,2021
+1,Red Bull Racing Honda,585.5,2021
+2,Ferrari,323.5,2021
+3,McLaren Mercedes,275.0,2021
+4,Alpine Renault,155.0,2021
+5,AlphaTauri Honda,142.0,2021
+6,Aston Martin Mercedes,77.0,2021
+7,Williams Mercedes,23.0,2021
+8,Alfa Romeo Racing Ferrari,13.0,2021
+9,Haas Ferrari,0.0,2021
